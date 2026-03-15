@@ -1,7 +1,7 @@
 import streamlit as st
 
 # ── Page config ───────────────────────────────────────────────────────────────
-st.set_page_config(page_title="Title", layout="centered")
+st.set_page_config(page_title="Roll Doll", layout="centered")
 
 # ── Options data (edit here to change what appears) ───────────────────────────
 OPTIONS = [
