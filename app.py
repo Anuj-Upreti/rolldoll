@@ -5,8 +5,8 @@ st.set_page_config(page_title="Title", layout="centered")
 
 # ── Options data (edit here to change what appears) ───────────────────────────
 OPTIONS = [
-    {"number": "01", "title": "Option 1", "desc": "Select this path to proceed with the first choice."},
-    {"number": "02", "title": "Option 2", "desc": "Select this path to proceed with the second choice."},
+    {"number": "01", "title": "Roll", "desc": "Addition Practice."},
+    {"number": "02", "title": "Doll", "desc": "Table Practice."},
 ]
 
 # ── Minimal custom styling (limited in Streamlit) ─────────────────────────────
